@@ -130,3 +130,4 @@ dmypy.json
 data/*
 .DS_Store
 hack4retail/data/*
+hack4retail/1st-place-approach/submissions/*
